@@ -1,0 +1,12 @@
+.routine {
+    padding-top: 25px;
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
