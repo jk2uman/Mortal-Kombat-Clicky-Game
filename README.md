@@ -1,3 +1,13 @@
+## Mortal Kombat Clicky-Game
+Choose your Destiny, Test Your Might, do you feel you can remember all of the characters without clicking them twice,
+Do you think you can score a Flawless Victory and shout "MORTAL KOMBAT!"
+## Program Used Were:
+## React
+## CSS
+## Bootstrap
+## Javascript
+## Node
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
