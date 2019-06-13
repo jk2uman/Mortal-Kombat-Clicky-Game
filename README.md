@@ -1,6 +1,9 @@
 ## Mortal Kombat Clicky-Game
 Choose your Destiny, Test Your Might, do you feel you can remember all of the characters without clicking them twice,
 Do you think you can score a Flawless Victory and shout "MORTAL KOMBAT!"
+![mortalkombat](https://user-images.githubusercontent.com/46642114/59398053-9bef7e80-8d43-11e9-915e-b6cb6c63a01e.gif)
+
+
 ## Program Used Were:
 ## React
 ## CSS
